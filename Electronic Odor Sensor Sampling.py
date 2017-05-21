@@ -1,6 +1,6 @@
 '''
 receive data from one arduino uno;
-it will be revised to accomate multile arduinos
+it will be revised to accomate multiple arduinos
 '''
 
 
